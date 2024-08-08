@@ -1,5 +1,6 @@
-package drugstore.backend.persistence;
+package drugstore.backend.persistence.repo;
 
+import drugstore.backend.persistence.entities.ProductEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

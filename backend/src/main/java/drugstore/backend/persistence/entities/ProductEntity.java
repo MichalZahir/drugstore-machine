@@ -1,4 +1,4 @@
-package drugstore.backend.persistence;
+package drugstore.backend.persistence.entities;
 
 import jakarta.persistence.*;
 import lombok.Data;
